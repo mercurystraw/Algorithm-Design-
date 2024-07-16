@@ -1,0 +1,13 @@
+﻿  1038非诚勿扰二.cpp
+C:\Users\李宗辉\source\repos\algorithm\algorithm\1038非诚勿扰二.cpp(7,23): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\李宗辉\source\repos\algorithm\algorithm\1038非诚勿扰二.cpp(58,35): warning C4244: “参数”: 从“_Ty”转换到“const unsigned int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\李宗辉\source\repos\algorithm\algorithm\1038非诚勿扰二.cpp(59,18): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+  algorithm.vcxproj -> C:\Users\李宗辉\source\repos\algorithm\Debug\algorithm.exe

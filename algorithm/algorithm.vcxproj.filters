@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Bubblesort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mergesort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Quicksort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1007dp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1008.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1009.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1010二分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1011最近点对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1013逆序对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1014最大子数组和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1019背包01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1019背包01_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1006heapsort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1022最长公共子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1016两元素和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1025最长非降序子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1017电路布线.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1020矩阵连乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1021钢条切割.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1015天际轮廓.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1031基站布置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1030黑白连线.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1033机器作业.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1027带权活动选择.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1040搜索二维矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1043鸡蛋掉落.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1035生产安排.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1037非诚勿扰一.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1029最小生成树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1036KMP水题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1041寻找两个正序数组的中位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1012寻找凸包.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1026插入乘号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1028迪杰斯特拉算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1042最低票价.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1023穷游.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1024最优二叉搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1032岛国难题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1034树上着色.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1039拓扑排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1038非诚勿扰二.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1049无人机飞行.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
